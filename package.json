@@ -1,0 +1,30 @@
+{
+    "name": "propagabot",
+    "description": "Twitter bot",
+    "version": "0.0.1",
+    "author": "Commie",
+    "keywords": [
+	"twitter",
+	"oauth"
+    ],
+    "dependencies": {
+	"twit": "1.1.19"
+    },
+    "devDependencies": {
+	"mocha": "1.8.1",
+	"colors": "0.6.x",
+	"memwatch": "0.2.2",
+	"async": "0.2.9"
+    },
+    "engines": {
+	"node": ">=0.6.0"
+    },
+    "main": "./lib/twitter",
+    "repository": {
+	"type": "git",
+	"url": "http://github.com/communistspectator/propagabot.git"
+    },
+    "scripts": {
+	
+    }
+}

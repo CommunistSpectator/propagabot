@@ -3,7 +3,7 @@
 //  
 //
 var Bot = require('./bot')
-  , config1 = require('../config1');
+  , config1 = require('config/config1');
 
 var bot = new Bot(config1);
 

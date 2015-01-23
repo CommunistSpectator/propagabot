@@ -9,7 +9,7 @@
     ],
     "dependencies": {
 	"twit": "1.1.19",
-	"pencilblue": "0.3.0"
+	"pencilblue-cli": "0.2.1"
 
     },
     "devDependencies": {

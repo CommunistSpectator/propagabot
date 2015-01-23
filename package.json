@@ -1,14 +1,16 @@
 {
     "name": "propagabot",
     "description": "Twitter bot",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Commie",
     "keywords": [
 	"twitter",
 	"oauth"
     ],
     "dependencies": {
-	"twit": "1.1.19"
+	"twit": "1.1.19",
+	"pencilblue": "0.3.0"
+
     },
     "devDependencies": {
 	"mocha": "1.8.1",
